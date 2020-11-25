@@ -1,0 +1,17 @@
+#opBox{
+    width: 100%;
+    bottom: 0;
+    height: 300px;
+    text-align: center;
+}
+#opBox button{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border-color: black;
+    box-shadow: 1px 1px 5px -2px black;
+}
+#opBox button img{
+    width: 100px;
+    height: auto;
+}
